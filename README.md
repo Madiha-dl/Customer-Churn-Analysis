@@ -1,17 +1,23 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
+Welcome 👋
 
+Welcome to my data analytics portfolio project repository. This project is part of my effort to demonstrate end-to-end data analytics skills, from data preparation and transformation to visualization and insight generation.
 
+Each repository in my portfolio represents a complete, business-focused project, designed to reflect real-world analytical scenarios and decision-making. The emphasis is on quality, clarity, and practical impact, rather than the number of projects.
+
+This repository can be used as a reference for how I approach data analysis, structure my work, and communicate insights using tools such as SQL Server, Power BI, and Python.
+
+Thank you for taking the time to review my work.
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Our business operates on a subscription-based model, where customers are billed monthly based on their selected services and contract terms. Because revenue is driven by recurring subscriptions, customer retention plays a critical role in maintaining profitability and long-term growth.Key business metrics tracked include Total Customers, Churn Rate, New Joiners, Monthly Charges, and Customer Tenure. The customer churn dataset combines demographic, geographic, service, and billing information to support churn analysis and retention strategies.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Demographic Insights:** Analyze customer characteristics such as gender, age group, and tenure to identify segments with higher churn risk.
+- **Geographic Insights:** Examine churn patterns across regions to uncover location-based trends and potential service or competition-related issues.
+- **Payment & Account Insights:** Evaluate the impact of contract type, payment method, billing preferences, and monthly charges on customer churn.
+- **Service Usage Insights:** Assess how service type, add-ons, and bundling influence customer retention and churn behavior.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
