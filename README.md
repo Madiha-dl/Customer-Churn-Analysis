@@ -1,4 +1,4 @@
-Welcome 👋
+**Welcome 👋**
 
 Welcome to my data analytics portfolio project repository. This project is part of my effort to demonstrate end-to-end data analytics skills, from data preparation and transformation to visualization and insight generation.
 
@@ -10,7 +10,11 @@ Thank you for taking the time to review my work.
 
 
 # Project Background
-Our business operates on a subscription-based model, where customers are billed monthly based on their selected services and contract terms. Because revenue is driven by recurring subscriptions, customer retention plays a critical role in maintaining profitability and long-term growth.Key business metrics tracked include Total Customers, Churn Rate, New Joiners, Monthly Charges, and Customer Tenure. The customer churn dataset combines demographic, geographic, service, and billing information to support churn analysis and retention strategies.
+Our business operates on a subscription-based model, where customers are billed monthly based on their selected services and contract terms. Because revenue is driven by recurring subscriptions, customer retention plays a critical role in maintaining profitability and long-term growth.
+
+Key business metrics tracked include Total Customers, Churn Rate, New Joiners, Monthly Charges, and Customer Tenure. 
+
+The customer churn dataset combines demographic, geographic, service, and billing information to support churn analysis and retention strategies.
 
 Insights and recommendations are provided on the following key areas:
 
