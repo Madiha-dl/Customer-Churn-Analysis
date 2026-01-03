@@ -25,13 +25,6 @@ Insights and recommendations are provided on the following key areas:
 - **Payment & Account Insights:** Evaluate the impact of contract type, payment method, billing preferences, and monthly charges on customer churn.
 - **Service Usage Insights:** Assess how service type, add-ons, and bundling influence customer retention and churn behavior.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
 
 # Data Structure & Initial Checks
 
