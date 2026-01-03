@@ -128,18 +128,17 @@ Churn also varies across demographics and regions: older customers and those in 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the stakeholder team to consider the following: 
 
-* Month‑to‑month customers show the highest churn rate (about 47%), so prioritize converting them to one‑year or two‑year plans by offering loyalty discounts, bundled services, or introductory rate reductions for longer contracts.**
+* Month‑to‑month customers show the highest churn rate (about 47%), so prioritize converting them to one‑year or two‑year plans by offering loyalty discounts, bundled services, or introductory rate reductions for longer contracts.
   
-* Customers paying via mailed check churn at around 38%, higher than those paying by bank withdrawal or credit card, so incentivize automatic digital payments with fee waivers, loyalty points, or small bill credits to reduce friction and late‑payment related dissatisfaction.**
+* Customers paying via mailed check churn at around 38%, higher than those paying by bank withdrawal or credit card, so incentivize automatic digital payments with fee waivers, loyalty points, or small bill credits to reduce friction and late‑payment related dissatisfaction.
   
-* Fiber optic users have the highest churn rate (about 41%), so investigate network reliability, speed consistency, and pricing in fiber plans and launch targeted service quality improvements or speed upgrades for this segment.**
+* Fiber optic users have the highest churn rate (about 41%), so investigate network reliability, speed consistency, and pricing in fiber plans and launch targeted service quality improvements or speed upgrades for this segment.
   
 * Competitor‑related reasons (better devices, offers, speeds, and data) account for a large share of churn, so benchmark competitor tariffs and revise product bundles, device upgrade programs, and promotional offers to be clearly superior or at least comparable for high‑value segments.
-**
   
-* Attitudinal reasons such as “attitude of support person” and “attitude of service provider” contribute significantly to churn, so invest in call‑center training, customer‑care KPIs, and post‑interaction surveys to improve perceived service and quickly recover at‑risk customers.**
+* Attitudinal reasons such as “attitude of support person” and “attitude of service provider” contribute significantly to churn, so invest in call‑center training, customer‑care KPIs, and post‑interaction surveys to improve perceived service and quickly recover at‑risk customers.
   
 
 # Assumptions and Caveats:
