@@ -139,13 +139,12 @@ Based on the insights and findings above, we would recommend the stakeholder tea
 
 **Competition: respond to better offers**
 * Design win‑back and save‑offers: e.g., limited‑time upgrade to a higher‑speed plan at the same price or device upgrade vouchers for customers scoring high on churn risk and citing competitors as a reason.
-* Systematically capture competitor plan details (price, speed, data, device offers) and maintain a simple internal “match or beat” matrix for front‑line agents to use when a customer mentions a competitor.
+* Systematically capture competitor plan details (price, speed, data, device offers) and maintain a simple internal "match or beat" matrix for front‑line agents to use when a customer mentions a competitor.
 * Add exit‑survey logic in app/IVR that triggers a special retention offer if the customer selects a competitor‑related reason, allowing at least one last attempt to keep them.
 
 **Experience: fix attitudinal and service issues**
-*Launch mandatory soft‑skills and empathy training for all front‑line staff and tie part of their incentives to post‑interaction and churn outcomes in their portfolio.
-*Implement “red‑flag” handling: if a customer gives very low satisfaction on any interaction, route them to a senior team within 24 hours to address issues and offer a small goodwill gesture.
-
+* Launch mandatory soft‑skills and empathy training for all front‑line staff and tie part of their incentives to post‑interaction and churn outcomes in their portfolio.
+* Implement "red‑flag" handling: if a customer gives very low satisfaction on any interaction, route them to a senior team within 24 hours to address issues and offer a small goodwill gesture.
 
 # Assumptions and Caveats:
 
