@@ -45,7 +45,8 @@ The company’s database consists of four core tables with a total of 6,419 reco
 
 All tables are linked using a unique customer ID.
 
-[Entity Relationship Diagram here]
+<img width="804" height="1492" alt="ERD" src="https://github.com/user-attachments/assets/490ae852-9912-425d-8e5b-8f20e475bc8e" />
+
 
 
 
