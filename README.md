@@ -65,56 +65,64 @@ Churn also varies across demographics and regions: older customers and those in 
 
 
 # Insights Deep Dive
-### Category 1:
+### Overall churn profile:
+-Total customers are 6,418, with 1,732 churned customers, giving an overall churn rate of about 27%.
+-New joiners are 411, indicating that recent acquisition is not yet offsetting total losses from churn.
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **High Churn Rate.** Overall churn rate is high at 27%, meaning roughly 1 in 4 customers leave, which signals a significant revenue risk if not addressed.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Retention Initiatives.** The dashboard shows 1,732 churned customers out of 6,418, suggesting that retention initiatives could have a large impact even with modest improvements in churn.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **New Joiners.** New joiners (411 customers) are substantially lower than total churned customers (1,732), so the current customer base would shrink over time without better retention.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Summary.** The churn summary highlights that both acquisition and retention metrics must be tracked together, because high churn can quickly erode growth from new sign‑ups.
 
-[Visualization specific to category 1]
+[A high‑level KPI card and summary bar showing total customers, churned customers, new joiners, and overall churn rate.]
 
 
-### Category 2:
+### Demographics and Geography:
+-Female customers churn more in absolute numbers (around 1,111) than males (around 621), reflecting the underlying customer mix as well as potential segment‑specific issues.
+-Top‑5 high‑churn states include Jammu & Kashmir and Assam, with Jammu & Kashmir showing a churn rate close to 57%, much higher than other regions.
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **State Drivers.** Churn is higher in some states, with Jammu & Kashmir reaching about 57% churn, indicating strong location‑specific drivers such as network quality or competitive intensity.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Gender Distribution.** The gender chart shows more churned females (about 1,111) than males (about 621), which may mirror the overall gender distribution but still flags the need to segment interventions by gender.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Age Groups.** Churn by age group peaks in the 20–35 and 36–50 bands, where churn rates hover around 23–32%, showing that core working‑age customers are more likely to leave than very young or older groups.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
-
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Summary.** The age‑wise churn pattern suggests targeted offers and better experience for middle age groups could meaningfully reduce overall churn because these groups represent a large share of total customers.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
+[Bar charts for churn by gender, age group, and state, with labels for churn counts and churn rate percentages.]
 
 
-### Category 4:
+### Contract, Tenure, and Payment Behavior:
+-Month‑to‑month contracts show a churn rate of about 47%, far higher than one‑year (around 11%) and two‑year contracts (around 3%).
+-Customers paying by mailed check have a churn rate near 38%, higher than bank withdrawals or credit card payments (around 34% and 15% respectively).
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Contracts.** Short‑term, month‑to‑month contracts are the riskiest, with churn rates roughly four times higher than one‑year contracts and more than ten times higher than two‑year contracts.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Tenures.** Longer tenures show slightly lower churn, with churn rates around 26–28% across tenure groups, and the largest customer pool (around 2.1K customers) staying beyond 24 months.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Payment Method.** Customers who pay by mailed check churn at approximately 38%, which is higher than bank withdrawal and much higher than credit card users at about 15%, suggesting payment friction may be tied to churn.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Summary.** Combining contract type with payment method helps isolate high‑risk profiles: month‑to‑month customers who also pay via mailed check are likely the most churn‑prone and should be prioritized for retention campaigns.
 
-[Visualization specific to category 4]
+[Clustered bar or line charts for churn rate by contract type, tenure group, and payment method, highlighting the spike for month‑to‑month and mailed check customers.]
+
+
+### Products, Services, and Churn Reasons:
+-Fiber optic internet users have the highest churn rate at about 41%, compared with cable at 26%, DSL at 19%, and customers with no internet at around 8%.
+-​The largest churn category is “Competitor” with 761 churns, followed by “Attitude” and “Dissatisfaction” categories around 300 each, and “Price”‑related churn around 196.
+
+* **Highest Churn Internet Type.** Internet type is a strong churn driver: fiber optic customers churn at about 41%, implying that service quality, competition, or pricing in this segment need urgent attention.
+  
+* **Frequent Churning Services.** Service‑level features show that customers with no online security or backup churn more often, with “No” responses dominating categories such as OnlineSecurity (about 84.6%) and OnlineBackup (about 71.9%).
+  
+* **Leading Churn Reasons.** The leading churn reasons are competitor‑related (better devices, better offers, higher speeds, more data), totaling several hundred churns, which confirms strong competitive pressure in this market.
+  
+* **Smaller Factors.** Attitudinal issues (attitude of support person, attitude of service provider) together contribute over 300 churns, showing that customer experience and support quality are nearly as important as price and network factors.
+
+[Stacked bars for churn by internet type and service add‑ons, plus a bar chart of churn counts by churn reason and churn category (Competitor, Attitude, Dissatisfaction, Price, Other).]
 
 
 
