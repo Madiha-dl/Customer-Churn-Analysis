@@ -130,24 +130,18 @@ Churn also varies across demographics and regions: older customers and those in 
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Month‑to‑month customers show the highest churn rate (about 47%), so prioritize converting them to one‑year or two‑year plans by offering loyalty discounts, bundled services, or introductory rate reductions for longer contracts.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Customers paying via mailed check churn at around 38%, higher than those paying by bank withdrawal or credit card, so incentivize automatic digital payments with fee waivers, loyalty points, or small bill credits to reduce friction and late‑payment related dissatisfaction.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Fiber optic users have the highest churn rate (about 41%), so investigate network reliability, speed consistency, and pricing in fiber plans and launch targeted service quality improvements or speed upgrades for this segment.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Competitor‑related reasons (better devices, offers, speeds, and data) account for a large share of churn, so benchmark competitor tariffs and revise product bundles, device upgrade programs, and promotional offers to be clearly superior or at least comparable for high‑value segments.
+**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Attitudinal reasons such as “attitude of support person” and “attitude of service provider” contribute significantly to churn, so invest in call‑center training, customer‑care KPIs, and post‑interaction surveys to improve perceived service and quickly recover at‑risk customers.**
   
-
 
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+For this analysis, no additional data assumptions, imputations, or recoding steps were applied beyond the original dataset fields. The results therefore directly reflect the provided customer and churn data without inferred or estimated values.
