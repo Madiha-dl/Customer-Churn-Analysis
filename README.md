@@ -36,8 +36,11 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 The company’s database consists of four core tables with a total of 6,419 records, designed to support customer churn analysis. A description of each table is as follows:
 
 **Table 1** – **Customer Info:** Demographic and geographic details
+
 **Table 2** – **Account & Billing:** Contract, payment, and billing information
+
 **Table 3** – **Services:** Service subscriptions and add-ons
+
 **Table 4** – **Churn Status:** Customer churn indicators
 
 All tables are linked using a unique customer ID.
