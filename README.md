@@ -125,16 +125,27 @@ Churn also varies across demographics and regions: older customers and those in 
 
 Based on the insights and findings above, we would recommend the stakeholder team to consider the following: 
 
-* Month‑to‑month customers show the highest churn rate (about 47%), so prioritize converting them to one‑year or two‑year plans by offering loyalty discounts, bundled services, or introductory rate reductions for longer contracts.
-  
-* Customers paying via mailed check churn at around 38%, higher than those paying by bank withdrawal or credit card, so incentivize automatic digital payments with fee waivers, loyalty points, or small bill credits to reduce friction and late‑payment related dissatisfaction.
-  
-* Fiber optic users have the highest churn rate (about 41%), so investigate network reliability, speed consistency, and pricing in fiber plans and launch targeted service quality improvements or speed upgrades for this segment.
-  
-* Competitor‑related reasons (better devices, offers, speeds, and data) account for a large share of churn, so benchmark competitor tariffs and revise product bundles, device upgrade programs, and promotional offers to be clearly superior or at least comparable for high‑value segments.
-  
-* Attitudinal reasons such as “attitude of support person” and “attitude of service provider” contribute significantly to churn, so invest in call‑center training, customer‑care KPIs, and post‑interaction surveys to improve perceived service and quickly recover at‑risk customers.
-  
+**Contracts: reduce month‑to‑month churn**
+* Introduce a "Lock‑in & Save" campaign targeting only month‑to‑month customers with a clear offer such as "Switch to 12‑month and save 10–15% on your bill for the next 6 months".
+* Also, add smart upsell prompts in all high‑contact touchpoints (IVR hold messages, app banner, bill email footer) that show the exact savings from moving to 1‑ or 2‑year contracts for that customer’s current usage level.
+
+**Payments: migrate away from mailed checks**
+* Detect customers paying by mailed check and push a "Go digital & get rewarded" journey: 1‑time bill credit (e.g., equivalent to 1–2% of monthly charge) for switching to auto‑debit or card payment.
+* Simplify sign‑up flows for auto‑pay (QR code on printed bills, deep link in SMS, "1‑click" change in the app) so the friction is minimal.
+
+**Network and plans: fix high fiber‑optic churn**
+* Map fiber‑optic churn hotspots by area and time, then prioritize field checks and capacity upgrades where churn and complaints are both high.
+* For customers who raise repeated quality complaints, proactively offer temporary speed boosts or a bill discount tied to service‑improvement milestones to prevent them from churning.
+
+**Competition: respond to better offers**
+* Design win‑back and save‑offers: e.g., limited‑time upgrade to a higher‑speed plan at the same price or device upgrade vouchers for customers scoring high on churn risk and citing competitors as a reason.
+* Systematically capture competitor plan details (price, speed, data, device offers) and maintain a simple internal “match or beat” matrix for front‑line agents to use when a customer mentions a competitor.
+* Add exit‑survey logic in app/IVR that triggers a special retention offer if the customer selects a competitor‑related reason, allowing at least one last attempt to keep them.
+
+**Experience: fix attitudinal and service issues**
+*Launch mandatory soft‑skills and empathy training for all front‑line staff and tie part of their incentives to post‑interaction and churn outcomes in their portfolio.
+*Implement “red‑flag” handling: if a customer gives very low satisfaction on any interaction, route them to a senior team within 24 hours to address issues and offer a small goodwill gesture.
+
 
 # Assumptions and Caveats:
 
