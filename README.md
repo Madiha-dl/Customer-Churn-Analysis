@@ -6,8 +6,7 @@ Welcome to my data analytics portfolio project repository. This project is part 
 
 Each repository in my portfolio represents a complete, business-focused project, designed to reflect real-world analytical scenarios and decision-making. The emphasis is on quality, clarity, and practical impact, rather than the number of projects.
 
-This repository can be used as a reference for how I approach data analysis, structure my work, and communicate insights using tools such as SQL Server, Power BI, and Python.
-
+This repository can be used as a reference for how I approach data analysis, structure my work, and communicate insights using tools such as SQL Server, Power BI.
 Thank you for taking the time to review my work.
 
 
@@ -25,7 +24,9 @@ Insights and recommendations are provided on the following key areas:
 - **Payment & Account Insights:** Evaluate the impact of contract type, payment method, billing preferences, and monthly charges on customer churn.
 - **Service Usage Insights:** Assess how service type, add-ons, and bundling influence customer retention and churn behavior.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here Customer_Churn_Analysis/Churn_analysis.sql
+The SQL queries used to inspect and clean the data for this analysis can be found here [Customer_Churn_Analysis/Churn_analysis.sql](https://github.com/Madiha-dl/Customer-Churn-Analysis/blob/192966bb41f21c06ebe50539bef789f77816bf1f/Customer_Churn_Analysis/Churn_analysis.sql)
+
+An interactive Power BI dashboard used to report and explore sales trends can be found here 
 
 # Data Structure & Initial Checks
 
