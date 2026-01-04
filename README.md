@@ -24,11 +24,6 @@ Insights and recommendations are provided on the following key areas:
 - **Payment & Account Insights:** Evaluate the impact of contract type, payment method, billing preferences, and monthly charges on customer churn.
 - **Service Usage Insights:** Assess how service type, add-ons, and bundling influence customer retention and churn behavior.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here 
-https://github.com/Madiha-dl/Customer-Churn Analysis/blob/192966bb41f21c06ebe50539bef789f77816bf1f/Customer_Churn_Analysis/Churn_analysis.sql
-
-An interactive Power BI dashboard used to report and explore sales trends can be found here 
-
 # Data Structure & Initial Checks
 
 The company’s database consists of four core tables with a total of 6,419 records, designed to support customer churn analysis. A description of each table is as follows:
